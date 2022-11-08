@@ -8,6 +8,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+black = "^22.10.0"
+sphinx = "^5.3.0"
+pennylane = "^0.26.0"
+pennylane-lightning = "^0.26.1"
+pennylane-sf = "^0.20.1"
+autograd = "^1.5"
 
 
 [build-system]
